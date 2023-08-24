@@ -33,4 +33,8 @@ Install Megaglest which can be found [here](https://megaglest.org/download) alte
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## Restarting the project in 2023 !
+
+Back again on this project, slowly, but surely !
+
 
